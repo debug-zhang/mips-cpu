@@ -2,13 +2,16 @@
 
 This is a MIPS32 CPU implemented in Verilog.
 
-Under developing
-
 ## Features
 
 - 5-stage pipline
 - forwarding & stalling
 - branch delay slot
+
+## Software
+- Xilinx ISE
+- MARS (MIPS32 assemble simulator)
+- Logisim (interactive circuits simulator)
 
 ## Instruction Set
 
